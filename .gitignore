@@ -1,0 +1,12 @@
+/node_modules
+/build
+/junk
+/coverage
+/types/truffle-contracts/
+/reporter/reporter_*.txt
+coverage.json
+dump.json
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
